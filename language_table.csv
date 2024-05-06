@@ -1,0 +1,134 @@
+N,Language,ISO-639 code,Text
+1,af,afrikaans,Hello Wêreld!
+2,sq,albanian,Përshendetje Botë!
+3,am,amharic,ሰላም ልዑል!
+4,ar,arabic,مرحبا بالعالم!
+5,hy,armenian,Բարեւ աշխարհ!
+6,as,assamese,"নমস্কাৰ, পৃথিৱী!"
+7,ay,aymara,"¡Aski urukipanaya, akapacha!"
+8,az,azerbaijani,"Salam, dünya!"
+9,bm,bambara,"Bonjour, diɲɛ!"
+10,eu,basque,Kaixo Mundua!
+11,be,belarusian,Прывітанне Сусвет!
+12,bn,bengali,ওহে বিশ্ব!
+13,bho,bhojpuri,"नमस्कार, दुनिया के!"
+14,bs,bosnian,Zdravo svijete!
+15,bg,bulgarian,Здравей свят!
+16,ca,catalan,Hola món!
+17,ceb,cebuano,"Hello, kalibutan!"
+18,ny,chichewa,Moni Dziko Lapansi!
+19,zh-CN,chinese (simplified),你好世界！
+20,zh-TW,chinese (traditional),你好世界！
+21,co,corsican,"Salute, mondu !"
+22,hr,croatian,Pozdrav svijete!
+23,cs,czech,Ahoj světe!
+24,da,danish,Hej Verden!
+25,dv,dhivehi,ހެލޯ، ދުނިޔެ!
+26,doi,dogri,"नमस्कार, दुनिया !"
+27,nl,dutch,Hallo Wereld!
+28,en,english,"Hello, world!"
+29,eo,esperanto,Saluton mondo!
+30,et,estonian,"Tere, Maailm!"
+31,ee,ewe,"Mido gbe na wò, xexeame!"
+32,tl,filipino,"Hello, mundo!"
+33,fi,finnish,Hei maailma!
+34,fr,french,Bonjour le monde!
+35,fy,frisian,Hallo wrâld!
+36,gl,galician,"Ola, mundo!"
+37,ka,georgian,Გამარჯობა მსოფლიო!
+38,de,german,Hallo Welt!
+39,el,greek,Γειά σου Κόσμε!
+40,gn,guarani,"Maitei, mundo!"
+41,gu,gujarati,"હેલો, વિશ્વ!"
+42,ht,haitian creole,"Bonjou, mond!"
+43,ha,hausa,Sannu Duniya!
+44,haw,hawaiian,"Aloha, honua!"
+45,iw,hebrew,שלום עולם!
+46,hi,hindi,हैलो वर्ल्ड!
+47,hmn,hmong,"Nyob zoo, ntiaj teb!"
+48,hu,hungarian,Helló Világ!
+49,is,icelandic,Halló heimur!
+50,ig,igbo,Ndewo Ụwa!
+51,ilo,ilocano,"Kumusta, lubong!"
+52,id,indonesian,Halo Dunia!
+53,ga,irish,"Dia duit, domhan!"
+54,it,italian,Ciao mondo!
+55,ja,japanese,こんにちは世界！
+56,jw,javanese,"Hello, donya!"
+57,kn,kannada,"ಹಲೋ, ವಿಶ್ವ!"
+58,kk,kazakh,Сәлем Әлем!
+59,km,khmer,សួស្តី​ពិភពលោក!
+60,rw,kinyarwanda,"Mwaramutse, isi!"
+61,gom,konkani,"नमस्कार, संवसार!"
+62,ko,korean,"안녕, 세상!"
+63,kri,krio,"Halo, di wɔl!"
+64,ku,kurdish (kurmanji),"Silav, dinya!"
+65,ckb,kurdish (sorani),سڵاو جیهان!
+66,ky,kyrgyz,Салам дүйнө!
+67,lo,lao,ສະ​ບາຍ​ດີ​ຊາວ​ໂລກ!
+68,la,latin,"Salve, mundi!"
+69,lv,latvian,Sveika pasaule!
+70,ln,lingala,"Mbote, mokili!"
+71,lt,lithuanian,Labas pasauli!
+72,lg,luganda,"Mwasuze mutya, ensi!"
+73,lb,luxembourgish,Moien Welt!
+74,mk,macedonian,Здраво свету!
+75,mai,maithili,"नमस्कार, दुनियाँ!"
+76,mg,malagasy,Hello World!
+77,ms,malay,Hai dunia!
+78,ml,malayalam,ഹലോ വേൾഡ്!
+79,mt,maltese,Hello dinja!
+80,mi,maori,"Kia ora, te ao!"
+81,mr,marathi,"नमस्कार, जग!"
+82,mni-Mtei,meiteilon (manipuri),"ꯍꯦꯜꯂꯣ, ꯃꯥꯂꯦꯝ!"
+83,lus,mizo,"Hello, khawvel!"
+84,mn,mongolian,"Сайн уу, дэлхий!"
+85,my,myanmar,မင်္ဂလာပါကမ္ဘာလောက!
+86,ne,nepali,नमस्कार संसार!
+87,no,norwegian,Hei Verden!
+88,or,odia (oriya),ନମସ୍କାର ବିଶ୍ୱବାସି!
+89,om,oromo,Akkam jirtu addunyaa!
+90,ps,pashto,سلام نړی!
+91,fa,persian,سلام دنیا!
+92,pl,polish,Witaj świecie!
+93,pt,portuguese,Olá Mundo!
+94,pa,punjabi,ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!
+95,qu,quechua,"Hola, mundo!"
+96,ro,romanian,Salut Lume!
+97,ru,russian,"Привет, мир!"
+98,sm,samoan,"Talofa, lalolagi!"
+99,sa,sanskrit,"नमस्कार, विश्व !"
+100,gd,scots gaelic,Hàlo a Shaoghail!
+101,nso,sepedi,"Thobela, lefase!"
+102,sr,serbian,Здраво Свете!
+103,st,sesotho,Lefatše Lumela!
+104,sn,shona,"Mhoro, nyika!"
+105,sd,sindhi,هيلو، دنيا!
+106,si,sinhala,හෙලෝ වර්ල්ඩ්!
+107,sk,slovak,Ahoj svet!
+108,sl,slovenian,"Pozdravljen, svet!"
+109,so,somali,"Hello, adduunyo!"
+110,es,spanish,¡Hola Mundo!
+111,su,sundanese,Halo Dunya!
+112,sw,swahili,"Salamu, Dunia!"
+113,sv,swedish,Hej världen!
+114,tg,tajik,Салом Ҷаҳон!
+115,ta,tamil,"வணக்கம், உலகம்!"
+116,tt,tatar,"Сәлам, Дөнья!"
+117,te,telugu,"హలో, ప్రపంచం!"
+118,th,thai,สวัสดีชาวโลก!
+119,ti,tigrinya,ሰላም ዓለም!
+120,ts,tsonga,"Xewani, misava!"
+121,tr,turkish,Selam Dünya!
+122,tk,turkmen,"Salam, dünýä!"
+123,ak,twi,"Hello, wiase!"
+124,uk,ukrainian,Привіт Світ!
+125,ur,urdu,ہیلو، دنیا!
+126,ug,uyghur,ياخشىمۇسىز ، دۇنيا!
+127,uz,uzbek,Salom Dunyo!
+128,vi,vietnamese,Chào thế giới!
+129,cy,welsh,Helo Byd!
+130,xh,xhosa,Molo Lizwe!
+131,yi,yiddish,העלא וועלט!
+132,yo,yoruba,Mo ki O Ile Aiye!
+133,zu,zulu,Sawubona Mhlaba!
